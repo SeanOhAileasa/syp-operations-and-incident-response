@@ -22,6 +22,12 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 - [Reconnaissance Tools](https://nbviewer.org/github/SeanOhAileasa/syp-operations-and-incident-response/blob/main/rc/security-tools/syp-reconnaissance-tools.ipynb#a) <br/>
 </details>
 
+<details close>
+    <summary>File Manipulation Tools</summary>
+
+- [File Manipulation Tools](https://nbviewer.org/github/SeanOhAileasa/syp-operations-and-incident-response/blob/main/rc/security-tools/syp-file-manipulation-tools.ipynb#a) <br/>
+</details>
+
 ##### ``Incident Response``
 
 ##### ``Investigations``
