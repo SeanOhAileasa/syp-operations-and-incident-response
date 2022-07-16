@@ -16,17 +16,11 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 
 ##### ``Security Tools``
 
-<details close>
-    <summary>Reconnaissance Tools</summary>
-
 - [Reconnaissance Tools](https://nbviewer.org/github/SeanOhAileasa/syp-operations-and-incident-response/blob/main/rc/security-tools/syp-reconnaissance-tools.ipynb#a) <br/>
-</details>
-
-<details close>
-    <summary>File Manipulation Tools</summary>
-
 - [File Manipulation Tools](https://nbviewer.org/github/SeanOhAileasa/syp-operations-and-incident-response/blob/main/rc/security-tools/syp-file-manipulation-tools.ipynb#a) <br/>
-</details>
+- [Shell and Script Environments](https://nbviewer.org/github/SeanOhAileasa/syp-operations-and-incident-response/blob/main/rc/security-tools/syp-shell-and-script-environments.ipynb#a) <br/>
+- [Packet Tools](https://nbviewer.org/github/SeanOhAileasa/syp-operations-and-incident-response/blob/main/rc/security-tools/syp-packet-tools.ipynb#a) <br/>
+- [Forensic Tools](https://nbviewer.org/github/SeanOhAileasa/syp-operations-and-incident-response/blob/main/rc/security-tools/syp-forensic-tools.ipynb#a) <br/>
 
 ##### ``Incident Response``
 
