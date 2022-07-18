@@ -94,6 +94,19 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 
 ##### ``Securing an Environment``
 
+<details close>
+    <summary>Endpoint Security Configuration</summary>
+
+- [Endpoint Security Configuration](https://nbviewer.org/github/SeanOhAileasa/syp-operations-and-incident-response/blob/main/rc/securing-an-environment/syp-endpoint-security-configuration.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Security Configurations</summary>
+
+- [Security Configurations](https://nbviewer.org/github/SeanOhAileasa/syp-operations-and-incident-response/blob/main/rc/securing-an-environment/syp-security-configurations.ipynb#a) <br/>
+</details>
+
+
 ##### ``Digital Forensics``
 
 ## Credits
