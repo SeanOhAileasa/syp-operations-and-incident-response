@@ -68,6 +68,30 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 
 ##### ``Investigations``
 
+<details close>
+    <summary>Vulnerability Scan Output</summary>
+
+- [Vulnerability Scan Output](https://nbviewer.org/github/SeanOhAileasa/syp-operations-and-incident-response/blob/main/rc/investigations/syp-vulnerability-scan-output.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>SIEM Dashboards</summary>
+
+- [SIEM Dashboards](https://nbviewer.org/github/SeanOhAileasa/syp-operations-and-incident-response/blob/main/rc/investigations/syp-siem-dashboards.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Log Files</summary>
+
+- [Log Files](https://nbviewer.org/github/SeanOhAileasa/syp-operations-and-incident-response/blob/main/rc/investigations/syp-log-files.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Log Management</summary>
+
+- [Log Management](https://nbviewer.org/github/SeanOhAileasa/syp-operations-and-incident-response/blob/main/rc/investigations/syp-log-management.ipynb#a) <br/>
+</details>
+
 ##### ``Securing an Environment``
 
 ##### ``Digital Forensics``
