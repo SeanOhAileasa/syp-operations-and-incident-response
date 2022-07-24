@@ -109,6 +109,30 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 
 ##### ``Digital Forensics``
 
+<details close>
+    <summary>Digital Forensics</summary>
+
+- [Digital Forensics](https://nbviewer.org/github/SeanOhAileasa/syp-operations-and-incident-response/blob/main/rc/digital-forensics/syp-digital-forensics.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Forensics Data Acquisition</summary>
+
+- [Forensics Data Acquisition](https://nbviewer.org/github/SeanOhAileasa/syp-operations-and-incident-response/blob/main/rc/digital-forensics/syp-forensics-data-acquisition.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>On-Premises vs. Cloud Forensics</summary>
+
+- [On-Premises vs. Cloud Forensics](https://nbviewer.org/github/SeanOhAileasa/syp-operations-and-incident-response/blob/main/rc/digital-forensics/syp-on-premises-vs-cloud-forensics.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Managing Evidence</summary>
+
+- [Managing Evidence](https://nbviewer.org/github/SeanOhAileasa/syp-operations-and-incident-response/blob/main/rc/digital-forensics/syp-managing-evidence.ipynb#a) <br/>
+</details>
+
 ## Credits
 
 J. "Professor" Messer, "CompTIA Security+ (SY0-601) Course Notes," [professormesser.com](https://web.archive.org/web/20220521181010/https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/), September 2021.
